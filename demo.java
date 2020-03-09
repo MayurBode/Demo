@@ -10,4 +10,9 @@ System.out.println("Demo");
   {
     System.out.println("Show in Demo");
   }
+  
+   public void display()
+  {
+    System.out.println("Display in Demo");
+  }
 }
