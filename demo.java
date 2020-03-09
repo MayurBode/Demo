@@ -17,7 +17,7 @@ System.out.println("Demo");
   }
   
   
-  public void shape()
+  public void shapeDemo()
   {
     System.out.println("Shape in Demo");
   }
