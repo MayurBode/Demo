@@ -15,4 +15,10 @@ System.out.println("Demo");
   {
     System.out.println("Display in Demo");
   }
+  
+  
+  public void shape()
+  {
+    System.out.println("Shape in Demo");
+  }
 }
