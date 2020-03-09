@@ -19,4 +19,10 @@ public void print()
   {
     System.out.println("Display in Demo");
   }
+  
+  
+  public void shapeDemo()
+  {
+    System.out.println("Shape in Demo");
+  }
 }
