@@ -25,4 +25,11 @@ public void print()
   {
     System.out.println("Shape in Demo");
   }
+  
+  
+  public void AmolDemo()
+  {
+    System.out.println("AmolDemo in Demo");
+  }
+  
 }
